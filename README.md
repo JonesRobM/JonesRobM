@@ -9,7 +9,6 @@ Innovative research scientist with 6+ years’ expertise in ab initio quantum mo
 **Postdoctoral Research Associate, King’s College London (2023–Present)**  
 - Lead research on ultrafast chiroptic phenomena and nonlinear optics with direct applications in drug discovery and photonics.
 - Designed and co-supervised MSci projects; developed novel analytical and computational frameworks.
-- Key contributor to the £10M EPSRC Catalytic Plasmonics (CPLAS) project, bridging theory and experiment in nanoscience.
 - Developed machine learning tools to accelerate quantum chemistry predictions.
 
 **Graduate Teaching Assistant, King’s College London (2019–2023)**  
