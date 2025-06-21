@@ -1,16 +1,32 @@
-## Hi there 👋
+# Dr Robert Michael Jones
 
-<!--
-**JonesRobM/JonesRobM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Email](mailto:jonesrobm@gmail.com) | [GitHub](https://github.com/JonesRobM) | [KCL Profile](https://www.kcl.ac.uk/people/robert-jones) | [ORCID](https://orcid.org/0000-0002-5422-3088) | Tel: +44 7746 377666
 
-Here are some ideas to get you started:
+## Profile
+Innovative research scientist with 6+ years’ expertise in ab initio quantum modeling, TDDFT, MD simulations, and machine learning for atomic, molecular, and optical physics. Proven track record in delivering high-impact research, publishing in leading journals, and presenting award-winning work at international conferences. Skilled in Python, C++, Fortran, and advanced ML frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+**Postdoctoral Research Associate, King’s College London (2023–Present)**  
+- Lead research on ultrafast chiroptic phenomena and nonlinear optics with direct applications in drug discovery and photonics.
+- Designed and co-supervised MSci projects; developed novel analytical and computational frameworks.
+- Key contributor to the £10M EPSRC Catalytic Plasmonics (CPLAS) project, bridging theory and experiment in nanoscience.
+- Developed machine learning tools to accelerate quantum chemistry predictions.
+
+**Graduate Teaching Assistant, King’s College London (2019–2023)**  
+- Received teaching excellence award; delivered tutorials, seminars, and lectures across physics and computing.
+- Mentored and assessed students from undergraduate to master’s level.
+
+## Education
+- **PhD Physics, King’s College London** (2019–2022): Full scholarship; research in nanoparticle stability, optical properties, and HPC resource management.
+- **MSc Non-Equilibrium Systems, KCL** (2018–2019)
+- **MPhys/BSc Theoretical Physics, University of Leeds** (2014–2018): Multiple awards; leadership in student societies.
+
+## Technical Skills
+- **Programming:** Python, PyTorch, TensorFlow, Fortran, C++, C, UNIX/Bash, SQL, LaTeX, Mathematica
+- **HPC:** Advanced parallel computing (MPI, CUDA, OpenMP), grant-winning experience
+- **Languages:** English (native), Italian (conversational), French (intermediate)
+
+## Achievements & Interests
+- Secured and managed >100,000 CPU hours for simulations; authored and co-authored multiple peer-reviewed articles.
+- Led and published student research projects; active in outreach and scientific communication.
+- Outdoor sports, music (performer, songwriter), multilingual, and charity volunteer.
