@@ -12,13 +12,14 @@ Ultrafast chiroptic phenomena, nonlinear optics, condensed matter physics, and q
 
 ## 💼 Current Position
 **Postdoctoral Research Associate** | King's College London (2023–Present)
-- Lead researcher on chiral light-matter interactions
-- Co-supervise MSci projects; develop computational frameworks
+- Lead researcher on chiral light-matter interactions, condensed matter physics, nonlinear light-matter interactions
+- Supervise final-year student projects at a Russel Group University
+- Develop computational frameworks
 - Build ML tools for quantum chemistry prediction
 
 ## 💻 Technical Stack
-**Core:** Python, PyTorch, TensorFlow, Fortran, C++  
-**HPC:** MPI, CUDA, OpenMP, >100k CPU hours managed  
+**Core:** Python, PyTorch, Fortran, C, C++  
+**HPC:** MPI, CUDA, OpenMP
 **Tools:** UNIX/Bash, SQL, LaTeX, Mathematica
 
 ## 🎓 Education
@@ -33,4 +34,4 @@ Ultrafast chiroptic phenomena, nonlinear optics, condensed matter physics, and q
 - Student research supervision and publication
 
 ---
-**🌍 Languages:** English (native), Italian (conversational), French (intermediate)
+**🌍 Languages:** English (native), Italian (conversational), French (intermediate), German (beginner)
