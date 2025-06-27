@@ -1,10 +1,10 @@
 # Dr Robert Michael Jones
 **🔬 Computational Physicist | ⚡ Quantum Modelling | 🤖 Machine Learning**
 
-📧 [jonesrobm@gmail.com](mailto:jonesrobm@gmail.com) | [KCL Profile](https://www.kcl.ac.uk/people/robert-jones) | [ORCID](https://orcid.org/0000-0002-5422-3088)
+📧 [jonesrobm@gmail.com](mailto:jonesrobm@gmail.com) | [robert.m.jones@kcl.ac.uk](mailto:robert.m.jones@kcl.ac.uk) | [KCL Profile](https://www.kcl.ac.uk/people/robert-jones) | [ORCID](https://orcid.org/0000-0002-5422-3088)
 
 ## 🔬 Research Focus
-Ultrafast chiroptic phenomena, nonlinear optics, and quantum chemistry acceleration via ML. 6+ years developing TDDFT/MD frameworks for drug discovery and photonics applications.
+Ultrafast chiroptic phenomena, nonlinear optics, condensed matter physics, and quantum chemistry acceleration via ML. 6+ years developing TDDFT/MD frameworks for catalysis, drug discovery, and photonics applications.
 
 ## ⭐ Interesting Repositories
 
