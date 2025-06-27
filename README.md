@@ -1,31 +1,36 @@
 # Dr Robert Michael Jones
+**🔬 Computational Physicist | ⚡ Quantum Modelling | 🤖 Machine Learning**
 
-[Email](mailto:jonesrobm@gmail.com) | [GitHub](https://github.com/JonesRobM) | [KCL Profile](https://www.kcl.ac.uk/people/robert-jones) | [ORCID](https://orcid.org/0000-0002-5422-3088) | Tel: +44 7746 377666
+📧 [jonesrobm@gmail.com](mailto:jonesrobm@gmail.com) | [KCL Profile](https://www.kcl.ac.uk/people/robert-jones) | [ORCID](https://orcid.org/0000-0002-5422-3088)
 
-## Profile
-Innovative research scientist with 6+ years’ expertise in ab initio quantum modeling, TDDFT, MD simulations, and machine learning for atomic, molecular, and optical physics. Proven track record in delivering high-impact research, publishing in leading journals, and presenting award-winning work at international conferences. Skilled in Python, C++, Fortran, and advanced ML frameworks.
+## 🔬 Research Focus
+Ultrafast chiroptic phenomena, nonlinear optics, and quantum chemistry acceleration via ML. 6+ years developing TDDFT/MD frameworks for drug discovery and photonics applications.
 
-## Experience
-**Postdoctoral Research Associate, King’s College London (2023–Present)**  
-- Lead research on ultrafast chiroptic phenomena and nonlinear optics with direct applications in drug discovery and photonics.
-- Designed and co-supervised MSci projects; developed novel analytical and computational frameworks.
-- Developed machine learning tools to accelerate quantum chemistry predictions.
+## ⭐ Interesting Repositories
 
-**Graduate Teaching Assistant, King’s College London (2019–2023)**  
-- Received teaching excellence award; delivered tutorials, seminars, and lectures across physics and computing.
-- Mentored and assessed students from undergraduate to master’s level.
+**[🔷 Sapphire](https://github.com/JonesRobM/Sapphire)** - Multi-faceted platform for designing, characterising, and computing dynamics/energetics of metallic nanoparticles.
 
-## Education
-- **PhD Physics, King’s College London** (2019–2022): Full scholarship; research in nanoparticle stability, optical properties, and HPC resource management.
-- **MSc Non-Equilibrium Systems, KCL** (2018–2019)
-- **MPhys/BSc Theoretical Physics, University of Leeds** (2014–2018): Multiple awards; leadership in student societies.
+## 💼 Current Position
+**Postdoctoral Research Associate** | King's College London (2023–Present)
+- Lead researcher on chiral light-matter interactions
+- Co-supervise MSci projects; develop computational frameworks
+- Build ML tools for quantum chemistry prediction
 
-## Technical Skills
-- **Programming:** Python, PyTorch, TensorFlow, Fortran, C++, C, UNIX/Bash, SQL, LaTeX, Mathematica
-- **HPC:** Advanced parallel computing (MPI, CUDA, OpenMP), grant-winning experience
-- **Languages:** English (native), Italian (conversational), French (intermediate)
+## 💻 Technical Stack
+**Core:** Python, PyTorch, TensorFlow, Fortran, C++  
+**HPC:** MPI, CUDA, OpenMP, >100k CPU hours managed  
+**Tools:** UNIX/Bash, SQL, LaTeX, Mathematica
 
-## Achievements & Interests
-- Secured and managed >100,000 CPU hours for simulations; authored and co-authored multiple peer-reviewed articles.
-- Led and published student research projects; active in outreach and scientific communication.
-- Outdoor sports, music (performer, songwriter), multilingual, and charity volunteer.
+## 🎓 Education
+**PhD Physics** | King's College London (2019–2022)  
+**MSc Non-Equilibrium Systems** | KCL (2018–2019)  
+**MPhys Theoretical Physics** | University of Leeds (2014–2018)
+
+## 🏆 Key Outputs
+- Multiple peer-reviewed publications in leading journals
+- Award-winning conference presentations internationally  
+- Teaching excellence award recipient
+- Student research supervision and publication
+
+---
+**🌍 Languages:** English (native), Italian (conversational), French (intermediate)
