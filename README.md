@@ -9,6 +9,8 @@ Ultrafast chiroptic phenomena, nonlinear optics, condensed matter physics, and q
 ## ⭐ Interesting Repositories
 
 **[🔷 Sapphire](https://github.com/JonesRobM/Sapphire)** - Multi-faceted platform for designing, characterising, and computing dynamics/energetics of metallic nanoparticles.
+**[📰 News-NLP](https://github.com/JonesRobM/News-NLP)** - PyTorch Natural Language Processing on synthetic and ethically web-scraped data for characterising news article headlines.
+**[📉 Streamdash](https://github.com/JonesRobM/Streamdash)** - StreamLit and YFinance python-based GUI for analysing stock and ETF prices based on historical and live data.
 
 ## 💼 Current Position
 **Postdoctoral Research Associate** | King's College London (2023–Present)
