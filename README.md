@@ -26,8 +26,8 @@ Earlier research code (nanoparticle dynamics, HHG data processing, DFT tooling) 
 ## Background
 
 - **Applied AI Scientist**, Whitespace (2026–present) — applied ML for defence and national-security problems.
-- **Data Scientist**, The Alan Turing Institute (2025) — ML and statistical modelling on HPC for high-impact research.
-- **Postdoctoral Research Associate**, King's College London (2023–2025) — lead researcher on chiral and nonlinear light–matter interactions; computational and ML frameworks for quantum-chemistry prediction.
+- **Data Scientist**, The Alan Turing Institute (2025-2026) — ML and statistical modelling on HPC for AI research and Radio Frequency Digital Signal Processing in defence and national security contexts.
+- **Postdoctoral Research Associate**, King's College London (2023–2025) — researcher on chiral and nonlinear light–matter interactions; computational and analytical frameworks for quantum-chemistry prediction.
 
 **Education:** PhD Physics, KCL (2022) · MSc Non-Equilibrium Systems, KCL (2019) · MPhys Theoretical Physics, Leeds (2018)
 
