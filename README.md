@@ -1,53 +1,40 @@
-# Dr Robert Michael Jones
-**🔬 Computational Physicist | ⚡ Quantum Modelling | 📊 Data Scientist**
+# Robert M. Jones, PhD
 
-📧 [rjones@turing.ac.uk](mailto:rjones@turing.ac.uk) | [robert.m.jones@kcl.ac.uk](mailto:robert.m.jones@kcl.ac.uk) | [KCL Profile](https://www.kcl.ac.uk/people/robert-jones) | [ORCID](https://orcid.org/0000-0002-5422-3088)
+**Applied AI Scientist** — physics-grounded machine learning for defence and national security.
 
----
+Formerly theoretical/computational physicist (King's College London, The Alan Turing Institute), specialising in nonlinear and chiral light–matter interactions. I build ML systems that respect physical constraints: simulation, uncertainty quantification, and evaluation tooling that tells you when a model is wrong.
 
-## 🔬 Research & Professional Focus
-Deep expertise at the intersection of **ultrafast phenomena, condensed matter physics, and large-scale data science**. Currently leveraging **Machine Learning** to accelerate quantum chemistry simulations, model complex physical systems, and extract insights from high-dimensional datasets.
-
-## ⭐ Interesting Repositories
-
-**[🔷 Sapphire](https://github.com/JonesRobM/Sapphire)** - Multi-faceted platform for designing, characterising, and computing dynamics/energetics of metallic nanoparticles. *(Computational Physics/Quantum Dynamics)*
-
-**[📰 News-NLP](https://github.com/JonesRobM/News-NLP)** - PyTorch Natural Language Processing on synthetic and ethically web-scraped data for characterising news article headlines. *(Machine Learning/NLP)*
-
-**[📉 Streamdash](https://github.com/JonesRobM/Streamdash)** - StreamLit and YFinance python-based GUI for analysing stock and ETF prices based on historical and live data. *(Data Engineering/Financial Analysis)*
+[ORCID](https://orcid.org/0000-0002-5422-3088) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zyqv3N8AAAAJ) · [LinkedIn](https://www.linkedin.com/in/robert-jones-a12b25129/)
 
 ---
 
-## 💼 Current Position
-**Data Scientist** | The Alan Turing Institute (2025–Present)
-- Applying advanced machine learning and statistical modeling to high-impact research challenges.
-- Developing robust, scalable AI solutions using high-performance computing (HPC) environments.
-- Collaborating with domain experts to translate complex theoretical models into practical data workflows.
+## Selected work
 
-**Postdoctoral Research Associate** | King's College London (2023–2025)
-- Lead researcher on chiral light-matter interactions, condensed matter physics, nonlinear light-matter interactions.
-- Developed computational frameworks and ML tools for quantum chemistry prediction.
+| Project | Summary |
+|---|---|
+| [**PhysBound**](https://github.com/JonesRobM/physbound) | MCP server that lints RF and physical-layer calculations against hard physical limits (Shannon, Friis, radar range). Catches LLM physics hallucinations. On PyPI and the MCP Registry; CI + coverage. |
+| [**Lumina**](https://github.com/JonesRobM/Lumina) | Rust framework for electromagnetic simulation of nanostructures via the Coupled Dipole Approximation. GPU-accelerated, O(N)-memory GMRES, Ewald-summed periodic systems, SHG/THG. 136 tests. |
+| [**retrieval-bench**](https://github.com/JonesRobM/retrieval-bench) | Retrieval evaluation harness for UK MoD Joint Doctrine publications. Seven retriever/chunking configurations benchmarked (recall@k, MRR, nDCG) with MLflow logging. No generation — just measurement. |
+| [**Metamaterials_PINN**](https://github.com/JonesRobM/Metamaterials_PINN) | Physics-informed neural networks for electromagnetic problems in metamaterials — Maxwell-constrained training with reproducible configs and tests. |
+| [**Chrono-Sentinel**](https://github.com/JonesRobM/Chrono-Sentinel) | Transformer-based time-series anomaly detection on the Numenta Anomaly Benchmark, with Monte Carlo Dropout uncertainty quantification and calibration analysis. |
+| [**EnergyConsumption**](https://github.com/JonesRobM/EnergyConsumption) | Hourly energy-demand forecasting across 10 US regions (145k observations): LSTM/GRU/TFT vs gradient-boosted baselines, with an honest model-comparison writeup. |
 
----
-
-## 💻 Technical Stack
-**Core:** Python (PyTorch/TensorFlow), Fortran, C, C++  
-**HPC:** MPI, CUDA, OpenMP, Distributed Computing
-**Tools:** UNIX/Bash, SQL, Docker/Containerization, LaTeX, Mathematica
+Earlier research code (nanoparticle dynamics, HHG data processing, DFT tooling) is archived but public — see [Sapphire](https://github.com/JonesRobM/Sapphire) and related repositories.
 
 ---
 
-## 🎓 Education
-**PhD Physics** | King's College London (2019–2022)  
-**MSc Non-Equilibrium Systems** | KCL (2018–2019)  
-**MPhys Theoretical Physics** | University of Leeds (2014–2018)
+## Background
+
+- **Applied AI Scientist**, Whitespace (2026–present) — applied ML for defence and national-security problems.
+- **Data Scientist**, The Alan Turing Institute (2025) — ML and statistical modelling on HPC for high-impact research.
+- **Postdoctoral Research Associate**, King's College London (2023–2025) — lead researcher on chiral and nonlinear light–matter interactions; computational and ML frameworks for quantum-chemistry prediction.
+
+**Education:** PhD Physics, KCL (2022) · MSc Non-Equilibrium Systems, KCL (2019) · MPhys Theoretical Physics, Leeds (2018)
 
 ---
 
-## 🏆 Key Outputs
-- Multiple peer-reviewed publications in leading journals and high-profile conference proceedings.
-- Development of production-grade computational and machine learning frameworks.
-- Experience in student research supervision and publication.
+## Technical
 
----
-**🌍 Languages:** English (native), Italian (conversational), French (intermediate), German (beginner)
+**Languages:** Python (PyTorch), Rust, C++, Fortran, SQL
+**Scientific computing:** MPI, CUDA, OpenMP, HPC schedulers
+**Engineering:** Docker, CI/CD (GitHub Actions), pytest, MLflow, Linux, LaTeX
