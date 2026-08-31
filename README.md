@@ -19,7 +19,7 @@ Formerly theoretical/computational physicist (King's College London, The Alan Tu
 | [**Chrono-Sentinel**](https://github.com/JonesRobM/Chrono-Sentinel) | Transformer-based time-series anomaly detection on the Numenta Anomaly Benchmark, with Monte Carlo Dropout uncertainty quantification and calibration analysis. |
 | [**EnergyConsumption**](https://github.com/JonesRobM/EnergyConsumption) | Hourly energy-demand forecasting across 10 US regions (145k observations): LSTM/GRU/TFT vs gradient-boosted baselines, with an honest model-comparison writeup. |
 
-Earlier research code (nanoparticle dynamics, HHG data processing, DFT tooling) is archived but public — see [Sapphire](https://github.com/JonesRobM/Sapphire) and related repositories.
+Earlier research code (nanoparticle dynamics, HHG data processing, DFT tooling) is public — see [Sapphire](https://github.com/JonesRobM/Sapphire) and related repositories.
 
 ---
 
