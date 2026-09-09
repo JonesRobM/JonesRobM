@@ -1,7 +1,7 @@
 # Robert M. Jones, PhD
 
 **Applied AI Scientist** 
-Physics-grounded machine learning for defence and national security.
+Physics-grounded machine learning and AI science across public and private stakeholders.
 
 **Theoretical Physicist**
 Specialising in nonlinear and chiral light–matter interactions, and still maintaining scientific software in that field.
@@ -35,7 +35,7 @@ Also public: [energy-demand forecasting](https://github.com/JonesRobM/EnergyCons
 
 ## Background
 
-- **Applied AI Scientist**, Whitespace (2026–present) — applied ML for defence and national-security problems.
+- **Applied AI Scientist**, Whitespace (2026–present) — applied ML for across sectors and stakeholder structures.
 - **Data Scientist**, The Alan Turing Institute (2025–2026) — ML and statistical modelling on HPC for AI research, and radio-frequency digital signal processing in defence and national-security contexts.
 - **Postdoctoral Research Associate**, King's College London (2023–2025) — chiral and nonlinear light–matter interactions; computational and analytical frameworks for quantum-chemistry prediction.
 
